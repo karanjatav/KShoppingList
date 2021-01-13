@@ -20,3 +20,5 @@ Updated blue print/design of the project which you can open using https://app.di
 
 https://drive.google.com/file/d/1Gmabn0pkF9epmjjXOkfqv7eL9FroDqpJ/view?usp=sharing
 
+<img alt="App image" src="/blue_print_1.png" width="70%">
+
