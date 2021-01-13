@@ -17,5 +17,6 @@ Note: This will be the first time that I'll be doing an open source project deve
 
 ## Resources
 Updated blue print/design of the project which you can open using https://app.diagrams.net:
+
 https://drive.google.com/file/d/1Gmabn0pkF9epmjjXOkfqv7eL9FroDqpJ/view?usp=sharing
 
