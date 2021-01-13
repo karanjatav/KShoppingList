@@ -14,9 +14,12 @@ The project will be designed and developed from the scratch.  All the resources 
 
 Note: This will be the first time that I'll be doing an open source project development, progress of which I will be updating every now and then on my Twitter and LinkedIn so please be easy on me any suggestions are most welcome.
 
+Twitter :- https://twitter.com/karanjatav
+LinkedIn :- https://www.linkedin.com/in/karanjtv/
+
 
 ## Resources
-Updated blue print/design of the project which you can open using https://app.diagrams.net:
+Updated blue print/design of the project which I'll keep adding screens into and you can open it using https://app.diagrams.net:
 
 https://drive.google.com/file/d/1Gmabn0pkF9epmjjXOkfqv7eL9FroDqpJ/view?usp=sharing
 
