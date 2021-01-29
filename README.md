@@ -9,14 +9,16 @@ The project will be designed and developed from the scratch.  All the resources 
 * Latest UI practices.
 * Latest Kotlin features
 * Latest Android SDK features
-* Firebase database implementation
+* FireStore Cloud (Firebase database) implementation
  
 
-Note: This will be the first time that I'll be doing an open source project development, progress of which I will be updating every now and then on my Twitter and LinkedIn so please be easy on me any suggestions are most welcome.
+## Firebase Database
+As I cannot share my Firebase account publicly I m adding image below on how I have set it up on the Firestore Cloud.
+<img alt="App image" src="/categories_model.png" width="33%">
+<img alt="App image" src="/items_model.png" width="33%">
+<img alt="App image" src="/selected_item_model.png" width="33%">
 
-Twitter :- https://twitter.com/karanjatav
-LinkedIn :- https://www.linkedin.com/in/karanjtv/
-
+<b> You will have to generate a "google-services.json" from firebase and add it to this project in app folder.</b>
 
 ## Resources
 Updated blue print/design of the project which I'll keep adding screens into and you can open it using https://app.diagrams.net:
@@ -25,3 +27,8 @@ https://drive.google.com/file/d/1Gmabn0pkF9epmjjXOkfqv7eL9FroDqpJ/view?usp=shari
 
 <img alt="App image" src="/blue_print_1.png" width="70%">
 
+
+Note: This will be the first time that I'll be doing an open source project development, progress of which I will be updating every now and then on my Twitter and LinkedIn so please be easy on me any suggestions are most welcome.
+
+Twitter :- https://twitter.com/karanjatav
+LinkedIn :- https://www.linkedin.com/in/karanjtv/
