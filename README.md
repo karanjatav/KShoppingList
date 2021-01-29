@@ -14,9 +14,8 @@ The project will be designed and developed from the scratch.  All the resources 
 
 ## Firebase Database
 As I cannot share my Firebase account publicly I m adding image below on how I have set it up on the Firestore Cloud.
-<img alt="App image" src="/categories_model.png" width="33%">
-<img alt="App image" src="/items_model.png" width="33%">
-<img alt="App image" src="/selected_item_model.png" width="33%">
+
+<img alt="Model_1" src="/categories_model.PNG" width="33%"> <img alt="Model_2" src="/items_model.PNG" width="33%"> <img alt="Model_3" src="/selected_item_model.PNG" width="33%">
 
 <b> You will have to generate a "google-services.json" from firebase and add it to this project in app folder.</b>
 
