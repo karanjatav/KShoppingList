@@ -9,7 +9,7 @@ The project will be designed and developed from the scratch.  All the resources 
 * Latest UI practices.
 * Latest Kotlin features
 * Latest Android SDK features
-* FireStore Cloud (Firebase database) implementation
+* Cloud FireStore (Firebase's database) implementation
  
 
 ## Firebase Database
